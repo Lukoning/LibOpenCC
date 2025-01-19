@@ -1,0 +1,2 @@
+# LibOpenCC
+OpenCC for BetterNCM
